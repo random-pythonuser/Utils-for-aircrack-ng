@@ -11,10 +11,12 @@ cd $(pwd)/Utils-for-aircrack-ng
 chmod +x ./util_aircrack.sh
 ```
 ### 3. Use the script:
-- ./util_aircrack.sh init (interface)
-- ./util_aircrack.sh mac (interface)
-- ./util_aircrack.sh monitor (interface)
-- ./util_aircrack.sh clean (interface)
+```bash
+./util_aircrack.sh init (interface)
+./util_aircrack.sh mac (interface)
+./util_aircrack.sh monitor (interface)
+./util_aircrack.sh clean (interface)
+```
 ### Flags meaning:
 - init -> changes mac and initializes monitor mode
 - mac -> changes mac 
