@@ -1,5 +1,5 @@
 # About
-### A bash script for aircrack-ng that uses some aircrack-ng commands like: airmon-ng, airodump-ng, and aireplay-ng. This script also uses macchanger for security. 
+### A bash script for aircrack-ng that uses some aircrack-ng commands like: airmon-ng and airodump-ng. This script also uses macchanger for security. 
 # Usage
 ### 1. Clone the repository:
 ```bash
