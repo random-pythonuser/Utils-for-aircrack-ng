@@ -1,6 +1,6 @@
-## About
+# About
 ### A bash script for aircrack-ng that uses some aircrack-ng commands like: airmon-ng, airodump-ng, and aireplay-ng. This script also uses macchanger for security. 
-## Usage
+# Usage
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/random-pythonuser/Utils-for-aircrack-ng.git
@@ -20,8 +20,8 @@ chmod +x ./util_aircrack.sh
 - mac -> changes mac 
 - monitor -> initiates monitor mode and executes the airodump monitor
 - clean -> stops monitor mode in the interface and restarts networkmanager
-## Warning
+# Warning
 ### Only use the attacks for networks you own or you have authorization to.
-## Credits and Creator message
+# Credits and Creator message
 ### This Github repository was made by a 12 year old and its my first repository!
 ### Hope you like it!
