@@ -26,6 +26,8 @@ chmod +x ./util_aircrack.sh
 ### Only use the attacks for networks you own or you have authorization to.
 # Credits and Creator message
 ### This Github repository was made by a 12 year old and its my first repository!
+### I just got bored so I did this 😅
+### Feel free to comment and request changes!
 ### Hope you like it!
 ## Support me!
-### Youtube -> https://www.youtube.com/@quatabyte 
+### Youtube -> https://www.youtube.com/@quatabyte 8 subs 😭
