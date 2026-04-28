@@ -25,4 +25,4 @@ chmod +x ./util_aircrack.sh
 # Credits and Creator message
 ### This Github repository was made by a 12 year old and its my first repository!
 ### Hope you like it!
-### Youtube -> [Link Text] https://www.youtube.com/@quatabyte 
+### Youtube -> https://www.youtube.com/@quatabyte 
